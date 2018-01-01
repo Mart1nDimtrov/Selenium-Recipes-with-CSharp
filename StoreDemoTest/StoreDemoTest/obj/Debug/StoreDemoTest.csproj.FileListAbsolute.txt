@@ -1,0 +1,8 @@
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\bin\Debug\StoreDemoTest.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\bin\Debug\StoreDemoTest.pdb
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\bin\Debug\WebDriver.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\bin\Debug\WebDriver.xml
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\obj\Debug\StoreDemoTest.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\obj\Debug\StoreDemoTest.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\StoreDemoTest\StoreDemoTest\obj\Debug\StoreDemoTest.pdb

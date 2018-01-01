@@ -1,0 +1,10 @@
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\SeleniumTestDemoQa.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\SeleniumTestDemoQa.pdb
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\WebDriver.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\WebDriver.Support.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\WebDriver.xml
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\bin\Debug\WebDriver.Support.xml
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\obj\Debug\SeleniumTestDemoQa.csprojResolveAssemblyReference.cache
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\obj\Debug\SeleniumTestDemoQa.dll
+C:\Users\martin\Desktop\SeleniumRecipes-C#\SeleniumTestDemoQa\SeleniumTestDemoQa\obj\Debug\SeleniumTestDemoQa.pdb
